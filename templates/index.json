@@ -15,7 +15,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products HELLO WORLD123</p>",
+            "text": "<p>Browse our latest products HELLO WORLD123 Hey there! How are you doing? hahaha</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
